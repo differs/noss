@@ -55,27 +55,7 @@ def open_ws():
 
 def get_block_from_rpc():
     url_list = [
-        "https://arbitrum-one.publicnode.com"
-        "https://arb-mainnet.unifra.io/v1/bb7f9fd643754558bf204157b1af7931",
-        "https://arbitrum.blockpi.network/v1/rpc/829a98f75d90ce7116e40fba9655b4d7dcb770db",
-        "https://arbitrum-mainnet.infura.io/v3/80c0d6915cac453cb8e5b1facfaecc21",
-        "https://go.getblock.io/cf5a563f7de0420c90f6a81d357ed7a2",
-        "https://arb-mainnet.g.alchemy.com/v2/9KyAxglA5DqtMsGyDJ0gZvPot9o9skmJ",
-        "https://arbitrum.llamarpc.com",
-        "https://endpoints.omniatech.io/v1/arbitrum/one/public",
-        "https://endpoints.omniatech.io/v1/arbitrum/one/public",
-        "https://rpc.arb1.arbitrum.gateway.fm",
-        "https://lb.nodies.app/v1/3a59dad98dc84331ad26e7152934643a",
-        "https://rpc.ankr.com/arbitrum",
-        "https://arbitrum.blockpi.network/v1/rpc/public",
-        "https://arb1.arbitrum.io/rpc",
-        "https://1rpc.io/arb",
-        "https://arb-pokt.nodies.app",
-        "https://arbitrum-one.public.blastapi.io",
-        "https://arb-mainnet-public.unifra.io",
-        "https://arbitrum.api.onfinality.io/public",
-        "https://arbitrum.meowrpc.com",
-        "https://arbitrum.drpc.org"
+        "https://hidden-ultra-leaf.arbitrum-mainnet.quiknode.pro/3bef35185252e7d63e4a737c07042a3348a09447/",
     ]
 
     headers = {
