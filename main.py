@@ -56,7 +56,8 @@ def open_ws():
 def get_block_from_rpc():
     url_list = [
         "https://hidden-ultra-leaf.arbitrum-mainnet.quiknode.pro/3bef35185252e7d63e4a737c07042a3348a09447/",
-        "https://arb-mainnet.g.alchemy.com/v2/demo",
+        "https://arb-mainnet.g.alchemy.com/v2/demo"
+        "https://rpc.arb1.arbitrum.gateway.fm",
     ]
 
     headers = {
